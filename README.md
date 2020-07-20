@@ -1,4 +1,4 @@
-# ios_-accelerator
+# ios_accelerator
 
 下载工程编译成动态库,使用yololib导入所需的游戏中即可
 
